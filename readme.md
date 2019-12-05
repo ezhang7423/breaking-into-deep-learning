@@ -27,11 +27,7 @@ Check out each of these and pick your favorite:
 - Mastery in Deep Learning
 - Profiency in Machine Learning
 - Tangible projects
-
----
-
-<br>
-<h2>Current plan is to work through three concurrent paths:</h2>
+  <h2>Current plan is to work through three concurrent paths:</h2>
 
 <ol>
 <li>Guided:
