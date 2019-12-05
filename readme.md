@@ -12,7 +12,7 @@ Assumed prerequisites:
 ## Looking for a fast track?
 
 Not looking to do research but simply to be able to use deep learning?
-Checkout each of these and pick your favorite:
+Check out each of these and pick your favorite:
 
 - https://spinningup.openai.com/en/latest/user/introduction.html
 - https://developers.google.com/machine-learning/crash-course/
