@@ -1,3 +1,8 @@
 http://people.idsia.ch/~juergen/deep-learning-miraculous-year-1990-1991.html
 https://www.edx.org/course/cs50s-introduction-to-computer-science
 https://github.com/ChristosChristofidis/awesome-deep-learning
+https://ai.google/education/
+https://developers.google.com/machine-learning/guides
+https://spinningup.openai.com/en/latest/
+https://www.fast.ai/
+https://developers.google.com/machine-learning/crash-course/
