@@ -35,4 +35,13 @@ Current plan is to work through three concurrent paths:
 </li>
     Motivation: As explained above doing things is how one stays excited about a particular field, and so building things while learning about them keeps one motivated and excited to keep learning. This is very similar to the "lab" in traditional CS courses. Although at first glance many of these appear to be highly ambitious and perhaps too difficult, all of these have been done before and so it would not be too difficult to find help online for each project. If for no other reason, one must admit (slightly cynically) that creating actual work is the only way to get a job in this field. 
 <li>Underlying concepts: </li>
+    <span><p style="font: 8px">NOTE: the following contain textbooks that are each easily over 700 pages. Obviously these go into the greatest depth and breadth possible, and it is unrealistic to expect one to read through every single page-such would take several years, and by the time one finished with this curriculum the field would have already moved several leaps ahead. Instead, it is better to pick only the most essentials areas of each. An included suggested path is found with each textbook.</p></span>
+    <span>-></span>
+    <span>Create chess bot (GAN + RL)</span>
+    <span>-></span>
+    <span>Twitter Sentiment Analysis (NLP + RNN)</span>
+    <span>-></span>
+    <span>Generate color images from black images (CV+RL)
+    <span>-></span>
+    <span>Build neural network from scratch</span>
 </ol>
