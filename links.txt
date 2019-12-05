@@ -1,0 +1,3 @@
+http://people.idsia.ch/~juergen/deep-learning-miraculous-year-1990-1991.html
+https://www.edx.org/course/cs50s-introduction-to-computer-science
+https://github.com/ChristosChristofidis/awesome-deep-learning
