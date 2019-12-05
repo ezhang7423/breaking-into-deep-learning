@@ -7,9 +7,7 @@ Assumed prerequisites:
 - Multivariable Calculus
 - Linear Algebra
 
----
-
-## Looking for a fast track?
+### Looking for a fast track?
 
 Not looking to do research but simply to be able to use deep learning?
 Check out each of these and pick your favorite:
