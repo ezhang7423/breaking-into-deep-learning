@@ -6,3 +6,9 @@ https://developers.google.com/machine-learning/guides
 https://spinningup.openai.com/en/latest/
 https://www.fast.ai/
 https://developers.google.com/machine-learning/crash-course/
+
+
+
+https://www.youtube.com/channel/UC7gOYDYEgXG1yIH_rc2LgOw/playlists
+http://www.cs.cmu.edu/~zkolter/course/linalg/course_notes.html
+http://www.cs.cmu.edu/~aarti/Class/10701/recitation/prob_review.pdf
